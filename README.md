@@ -1,5 +1,4 @@
 # learn_core_java_day_18
-# learn_core_java_day_16
 Day 01 : Java Programming Basics
 
 Day 02 : Variables, Data Types and Assignment.
